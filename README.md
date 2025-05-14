@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eviv1
 - 👀 I’m interested in coding and using systems for a more efficient workflow.
 - 🌱 I’m currently learning how to GitHub lol
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Send me an email through evitha.viola.320401@gmail.com!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love automation and making technology work for you! (and also Chicken Liver Adobo)
